@@ -61,7 +61,7 @@
         <OutArgument x:TypeArguments="x:Int32">[TestCounter]</OutArgument>
       </Assign.To>
       <Assign.Value>
-        <InArgument x:TypeArguments="x:Int32">3</InArgument>
+        <InArgument x:TypeArguments="x:Int32">2</InArgument>
       </Assign.Value>
     </Assign>
     <TryCatch DisplayName="Try Catch" sap:VirtualizedContainerService.HintSize="434,194" sap2010:WorkflowViewState.IdRef="TryCatch_1">
