@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Doklad>
+<Doklad>
+	<XMLCreateDate desc="datum a cas vytvoreni xml">16.11.2020-06:39:18</XMLCreateDate> 
+	<DocID desc="ID dokumentu generovany robotem">???</DocID> 
+	<DocType desc="typ ucetniho dokladu">???</DocType>
+	<BenetOrderNumber desc="cislo nasi objednavky">50193197/KJa</BenetOrderNumber>
+	<OPCH_NumAtCard desc="variabilni symbol">1202000331</OPCH_NumAtCard> 
+	<OCRD_VatIdUnCmp desc="ICO">1615921</OCRD_VatIdUnCmp> 
+	<OPCH_TaxDate desc="datum uskutecneni zdanitelného plnění">16.09.2020</OPCH_TaxDate>
+	<OPCH_DocDueDate desc="datum splatnosti">30.09.2020</OPCH_DocDueDate>
+	<OPCH_U_Dl_k_Prijemce desc="dodaci listy prijem">10020200296</OPCH_U_Dl_k_Prijemce>
+	<OPCH_DocTotal desc="doklad celkem">29238</OPCH_DocTotal>
+	<OCRB_Account desc="bankovni ucet">2001775647/2010</OCRB_Account>
+	<OPCH_VatSum desc="dan (DPH) celkem">5074,44</OPCH_VatSum>
+	<OPCH_BaseTotal desc="doklad bez DPH - dopocitana hodnota">24163,56</OPCH_BaseTotal>
+</Doklad>
+
